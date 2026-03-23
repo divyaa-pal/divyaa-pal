@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Divya Pal 👋
 
-<!--
-**divyaa-pal/divyaa-pal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Tech CSE (AI & ML) Student  
+- 🏫 VIT Bhopal University  
+- 📚 First Year  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+I am a first-year engineering student passionate about learning programming and building strong technical skills. I am currently exploring different areas of technology and aiming to improve my problem-solving abilities.
+
+---
+
+## 🚀 Experience
+- 🏆 Grand Finalist in a hackathon, where I worked in a team to develop innovative solutions. This experience strengthened my teamwork, creativity, and problem-solving skills.
+
+---
+
+## 🎯 Goals
+- 💻 Learn programming fundamentals  
+- 🛠️ Build real-world projects  
+- 🧠 Improve problem-solving skills  
+- 🚀 Explore new technologies  
+
+---
+
+## 🌟 Interests
+- 💻 Technology & Development  
+- 🤝 Teamwork & Collaboration  
+- 🚀 Continuous Learning  
+
+---
+
+## 📫 Contact
+- 📧 Email: divya.25bai10788@vitbhopal.ac.in 
