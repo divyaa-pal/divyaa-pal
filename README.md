@@ -2,7 +2,7 @@
 
 - 🎓 B.Tech CSE (AI & ML) Student  
 - 🏫 VIT Bhopal University  
-- 📚 First Year  (2025-2029)
+- 📚  2025-2029
 
 ---
 
